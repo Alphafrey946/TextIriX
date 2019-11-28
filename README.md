@@ -1,2 +1,2 @@
 # TextIrlX
-Texture analysis plugin
+Under development
